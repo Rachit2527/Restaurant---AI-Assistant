@@ -10,8 +10,8 @@ An AI-powered app that generates unique restaurant names, custom menus, signatur
 
 ## Restaurant Name Generator:
 
-![Restaurant Name Generator](https://github.com/Rachit2527/Financial-Assistant/blob/main/Screenshot%20(3017).png?raw=true)
-![](https://github.com/Rachit2527/Financial-Assistant/blob/main/Screenshot%20(3017).png?raw=true)
+![Restaurant Name Generator](https://github.com/Rachit2527/Restaurant---AI-Assistant/blob/main/Restaurant%20Name%20Generator.png?raw=true)
+![](https://github.com/Rachit2527/Restaurant---AI-Assistant/blob/main/Restaurant%20Name%20Generatorr.png?raw=true)
 
 
 ## Menu Generator:
