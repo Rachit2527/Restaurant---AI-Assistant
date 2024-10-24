@@ -4,31 +4,34 @@
 An AI-powered app that generates unique restaurant names, custom menus, signature dishes, and taglines based on user input. This app is built using HuggingFace, LangChain, and Streamlit, allowing users to create creative restaurant concepts, fusion cuisine ideas, and more.
 
 ## OVERVIEW
-The page has these features:
-![Features](https://github.com/Rachit2527/Financial-Assistant/blob/main/Screenshot%20(3027).png?raw=true)
+## Home:
 
-## Financial Question Answering
+![Home](https://github.com/Rachit2527/Restaurant---AI-Assistant/blob/main/Home.png?raw=true)
 
-![Financial Question Answering](https://github.com/Rachit2527/Financial-Assistant/blob/main/Screenshot%20(3017).png?raw=true)
+## Restaurant Name Generator:
 
-## Financial Sentiment Analysis with Text Generation
+![Restaurant Name Generator](https://github.com/Rachit2527/Financial-Assistant/blob/main/Screenshot%20(3017).png?raw=true)
+![](https://github.com/Rachit2527/Financial-Assistant/blob/main/Screenshot%20(3017).png?raw=true)
 
-![Financial Sentiment Analysis with Text Generation](https://github.com/Rachit2527/Financial-Assistant/blob/main/Screenshot%20(3018).png?raw=true)
+
+## Menu Generator:
+
+![Menu Generator](https://github.com/Rachit2527/Financial-Assistant/blob/main/Screenshot%20(3018).png?raw=true)
 ![](https://github.com/Rachit2527/Financial-Assistant/blob/main/Screenshot%20(3019).png?raw=true)
 
-## Generative AI for Personalized Financial Advice
+## Tagline Generator:
 
-![Generative AI for Personalized Financial Advice](https://github.com/Rachit2527/Financial-Assistant/blob/main/Screenshot%20(3020).png?raw=true)
+![Tagline Generator](https://github.com/Rachit2527/Financial-Assistant/blob/main/Screenshot%20(3020).png?raw=true)
 
 ![](https://github.com/Rachit2527/Financial-Assistant/blob/main/Screenshot%20(3021).png?raw=true)
 
-## AI Driven Financial Report Generation
-![AI Driven Financial Report Generation](https://github.com/Rachit2527/Financial-Assistant/blob/main/Screenshot%20(3022).png?raw=true)
+## Special Dish Generator:
+![Special Dish Generator](https://github.com/Rachit2527/Financial-Assistant/blob/main/Screenshot%20(3022).png?raw=true)
 ![](https://github.com/Rachit2527/Financial-Assistant/blob/main/Screenshot%20(3023).png?raw=true)
-![](https://github.com/Rachit2527/Financial-Assistant/blob/main/Screenshot%20(3024).png?raw=true)
 
-## Credit Risk Assessment
-![Credit Risk Assessment](https://github.com/Rachit2527/Financial-Assistant/blob/main/Screenshot%20(3025).png?raw=true)
+
+## Cuisine Pairing:
+![Cuisine Pairing](https://github.com/Rachit2527/Financial-Assistant/blob/main/Screenshot%20(3025).png?raw=true)
 ![](https://github.com/Rachit2527/Financial-Assistant/blob/main/Screenshot%20(3026).png?raw=true)
 
 
