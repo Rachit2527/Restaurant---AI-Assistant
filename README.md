@@ -11,28 +11,28 @@ An AI-powered app that generates unique restaurant names, custom menus, signatur
 ## Restaurant Name Generator:
 
 ![Restaurant Name Generator](https://github.com/Rachit2527/Restaurant---AI-Assistant/blob/main/Restaurant%20Name%20Generator.png?raw=true)
-![](https://github.com/Rachit2527/Restaurant---AI-Assistant/blob/main/Restaurant%20Name%20Generatorr.png?raw=true)
+![](https://github.com/Rachit2527/Restaurant---AI-Assistant/blob/main/Restaurant%20Name%20Generatorr%202.png?raw=true)
 
 
 ## Menu Generator:
 
-![Menu Generator](https://github.com/Rachit2527/Financial-Assistant/blob/main/Screenshot%20(3018).png?raw=true)
-![](https://github.com/Rachit2527/Financial-Assistant/blob/main/Screenshot%20(3019).png?raw=true)
+![Menu Generator](https://github.com/Rachit2527/Restaurant---AI-Assistant/blob/main/Menu%20Generator.png?raw=true)
+![](https://github.com/Rachit2527/Restaurant---AI-Assistant/blob/main/Menu%20Generator%202.png?raw=true)
 
 ## Tagline Generator:
 
-![Tagline Generator](https://github.com/Rachit2527/Financial-Assistant/blob/main/Screenshot%20(3020).png?raw=true)
+![Tagline Generator](https://github.com/Rachit2527/Restaurant---AI-Assistant/blob/main/Tagline%20Generator.png?raw=true)
 
-![](https://github.com/Rachit2527/Financial-Assistant/blob/main/Screenshot%20(3021).png?raw=true)
+![](https://github.com/Rachit2527/Restaurant---AI-Assistant/blob/main/Tagline%20Generator%202.png?raw=true)
 
 ## Special Dish Generator:
-![Special Dish Generator](https://github.com/Rachit2527/Financial-Assistant/blob/main/Screenshot%20(3022).png?raw=true)
-![](https://github.com/Rachit2527/Financial-Assistant/blob/main/Screenshot%20(3023).png?raw=true)
+![Special Dish Generator](https://github.com/Rachit2527/Restaurant---AI-Assistant/blob/main/Special%20Dish%20Generator.png?raw=true)
+![](https://github.com/Rachit2527/Restaurant---AI-Assistant/blob/main/Special%20Dish%20Generator%202.png?raw=true)
 
 
 ## Cuisine Pairing:
-![Cuisine Pairing](https://github.com/Rachit2527/Financial-Assistant/blob/main/Screenshot%20(3025).png?raw=true)
-![](https://github.com/Rachit2527/Financial-Assistant/blob/main/Screenshot%20(3026).png?raw=true)
+![Cuisine Pairing](https://github.com/Rachit2527/Restaurant---AI-Assistant/blob/main/Cuisine%20Pairing.png?raw=true)
+![](https://github.com/Rachit2527/Restaurant---AI-Assistant/blob/main/Cuisine%20Pairing_2.png?raw=true)
 
 
 ## Key Features:
