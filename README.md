@@ -34,23 +34,23 @@ The page has these features:
 
 ## Key Features:
 
-Restaurant Name Generator
+## Restaurant Name Generator
 
 Input your cuisine type, and the app will generate a catchy, unique restaurant name.
 
-Menu Generator
+## Menu Generator
 
 Generate a full restaurant menu with diverse categories (starters, main courses, desserts, drinks) based on the selected cuisine type.
 
-Signature Dish Creator
+## Signature Dish Creator
 
 Suggests signature dishes with detailed descriptions, ideal for branding and attracting customers.
 
-Tagline and Slogan Generator
+## Tagline and Slogan Generator
 
 Provides personalized restaurant taglines or slogans that resonate with the chosen cuisine style.
 
-Cuisine Fusion Ideas
+## Cuisine Fusion Ideas
 
 Suggests innovative fusion dishes by combining different cuisine types for a more unique menu experience.
 
